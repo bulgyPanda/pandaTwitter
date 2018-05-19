@@ -1,1 +1,1 @@
-update bashrc --> nano ~/.bash_profile
+#update bashrc --> nano ~/.bash_profile
